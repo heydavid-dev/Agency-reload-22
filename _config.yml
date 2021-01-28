@@ -1,9 +1,9 @@
-url: https://y7kim.github.io
-baseurl: /agency-jekyll-theme/
+url: https://heydavid-dev.github.io
+baseurl: /Agency-reload-22
 
 # Site settings
-header_title: Welcome To Our Agency
-header_subtitle: It's Nice to be Friends
+header_title: Howdy Cowboy
+header_subtitle: To infinity and beyond!
 
 title: Awesome Title
 email: your-email@domain.com
@@ -17,46 +17,46 @@ people:
   position: Lead Designer
   social:
     - title: twitter
-      url: #
+      url: https://heydavid-dev.github.io
     - title: facebook
-      url: #
+      url: https://heydavid-dev.github.io
     - title: stack-overflow
-      url: #
+      url: https://heydavid-dev.github.io
 
 - name: Larry Parker
   pic: 2
   position: Lead Marketer
   social:
     - title: twitter
-      url: #
+      url: https://heydavid-dev.github.io
     - title: facebook
-      url: #
+      url: https://heydavid-dev.github.io
     - title: linkedin
-      url: #
+      url: https://heydavid-dev.github.io
 
 - name: Diana Petersen
   pic: 3
   position: Lead Developer
   social:
     - title: twitter
-      url: #
+      url: https://heydavid-dev.github.io
     - title: facebook
-      url: #
+      url: https://heydavid-dev.github.io
     - title: google-plus
-      url: #
+      url: https://heydavid-dev.github.io
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: https://heydavid-dev.github.io
   - title: facebook
-    url:
+    url: https://heydavid-dev.github.io
   - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
+    url: https://heydavid-dev.github.io
   - title: bitbucket 
-    url: http://bitbucket.org/jekyll
+    url: https://heydavid-dev.github.io
   - title: github
-    url: http://github.com/jekyll
+    url: https://heydavid-dev.github.io
 
 # Postal address (add as many lines as necessary)
 address:
